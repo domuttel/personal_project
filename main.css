@@ -1,0 +1,54 @@
+body {
+    background-color: #000000;
+    text-align: center;
+}
+
+h1 {
+	font-family: 'UnifrakturMaguntia', cursive;
+	font-size: 4.5em;
+    color: #FFFFFF;
+    margin-bottom: -20px;
+
+}
+
+h2 {
+	font-family: 'Codystar', cursive;
+	font-size: 1em;
+    color: #FFFFFF;
+}
+h3 {
+    color: #FFFFFF;
+	font-family: 'Lato', sans-serif;
+	font-size: 3em;
+}
+
+p {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 0.9em;
+	color: #FFFFFF;
+    text-align: center;
+    margin: 0px 300px 0px 300px;
+}
+a:link {
+    color: #FFFFFF;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: #FFFFFF;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: #FFFFFF;
+    background-color: transparent;
+    text-decoration: line-through;
+}
+a:active {
+    color: #FFFFFF;
+    background-color: transparent;
+    text-decoration: none;
+}
+#figure {
+    margin: 100px 0px 100px 0px;
+}

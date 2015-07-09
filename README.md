@@ -1,0 +1,1 @@
+This is my personal project - a website about my past and future. It is meant to help my fellow classmates get to know me, my code, and my aesthetic.
